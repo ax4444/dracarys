@@ -1,0 +1,69 @@
+*{
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+body{
+  background-color: #0e0e0e;
+  font-family: "Open Sans";
+  color: #ff2e2e;
+}
+
+h1{
+  text-align: center;
+  font-size: 45px;
+  font-weight: 300;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  padding: 3% 0 3% 0;
+}
+
+h3{
+  text-align: center;
+  font-size: 25px;
+  font-weight: 300;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+}
+
+p{
+  padding: 2%;
+  text-align: justify;
+  font-size: 17px;
+  word-spacing: 2px;
+  color: #e0dbdb;
+}
+
+img{
+  max-width: 100%;
+  height: auto;
+}
+
+.sarreria{
+  padding-top: 95px;
+}
+
+.herena{
+  width: 28%;
+  float: left;
+  margin: 2% 0 3% 4%;
+  text-align: center;
+}
+
+
+.separadoria{
+  padding-top: 150px;
+  padding-bottom: 100px;
+}
+
+.argazkixa{
+  border: 2px solid white;
+  border-radius: 5%;
+  margin-bottom: 25px;
+  width: 350px;
+}
+
+.argazkixa:hover{
+  transform: scale(1.015);
+}
